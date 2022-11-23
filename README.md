@@ -17,7 +17,7 @@ That repository includes the static files used on simulator and on backend:
     - Geojson of custom move animations
 
 4. icons folder with:
-    - icons/images used in simulator
+    - icons/images used in emulator
 
 ---
 ## CI/CD Pipeline
