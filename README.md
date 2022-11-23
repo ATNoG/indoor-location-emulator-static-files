@@ -14,7 +14,7 @@ That repository includes the static files used on simulator and on backend:
     - Geojson of asset points positions
     - Geojson of antennas positions
     - Geojson of pulsing dots positions
-    - Geojson of custom move animations (1 to 4)
+    - Geojson of custom move animations
 
 4. icons folder with:
     - icons/images used in simulator
